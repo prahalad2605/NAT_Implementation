@@ -31,3 +31,8 @@ Implementation of NAT using C
 
 8. Connection Closure:
 -The client and server close their respective sockets after the interaction.
+
+# How To Run
+1. Compile the server and client programs.
+2. Run the server program first.
+3. Run the client program once you see the message "Server listening on Port 8080...".
