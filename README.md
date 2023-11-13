@@ -1,5 +1,5 @@
 # Networks_Team_Project
-Implementation of NAT using C
+Problem: Implementation of Network Address Translation(NAT) Protocol using C.
 
 # Workflow
 1. Server Initialization:
