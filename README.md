@@ -1,7 +1,7 @@
 # Networks_Team_Project
 Implementation of NAT using C
 
-#Workflow
+# Workflow
 1. Server Initialization:
 -The server initializes a socket to listen for incoming connections on a specified port (in this case, port 8080).
 -Initial mappings are set up on the server, containing pairs of local and global IP addresses.
